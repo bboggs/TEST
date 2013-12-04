@@ -1,1 +1,1 @@
-<?php echo "chuck"; ?>
+<?php echo "Chuck Norris is a jackass"; ?>
