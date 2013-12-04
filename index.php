@@ -1,1 +1,1 @@
-<?php echo "Chuck Norris is a jackass"; ?>
+<?php echo "Updated Content"; ?>
